@@ -1,5 +1,8 @@
 # vueapple
 
+코딩애플의 vueJS 강의 무료부분 수강\
+`https://codingapple.com/course/vue-js/`
+
 ## Project setup
 ```
 npm install
